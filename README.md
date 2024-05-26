@@ -10,22 +10,10 @@ Users should be able to:
 
 - View the optimal layout for the site depending on their device's screen size
 
-### Desktop Screenshot
-
-![](./images/desktop.jpeg)
-
-### Tablet Screenshot
-
-![](./images/tablet.jpeg)
-
-### Mobile Screenshot
-
-![](./images/mobile.jpeg)
-
 ### Links
 
 - Solution URL: [https://github.com/metinahmeterkeles/Testimonials-Grid-Section](https://github.com/metinahmeterkeles/Testimonials-Grid-Section)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://testimonials-grid-section-livid.vercel.app/](https://testimonials-grid-section-livid.vercel.app/)
 
 ## My process
 
@@ -65,3 +53,15 @@ Users should be able to:
 
 - Website - [https://github.com/metinahmeterkeles](https://github.com/metinahmeterkeles)
 - Frontend Mentor - [@metinahmeterkeles](https://www.frontendmentor.io/profile/metinahmeterkeles)
+
+### Desktop Screenshot
+
+![](./images/desktop.jpeg)
+
+### Tablet Screenshot
+
+![](./images/tablet.jpeg)
+
+### Mobile Screenshot
+
+![](./images/mobile.jpeg)
